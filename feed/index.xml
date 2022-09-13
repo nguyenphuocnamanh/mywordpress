@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Web Coffe</title>
+	<atom:link href="https://nguyenphuocnamanh.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenphuocnamanh.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Tue, 13 Sep 2022 06:27:56 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>Trang web caffe</title>
+		<link>https://nguyenphuocnamanh.github.io/mywordpress/trang-web-caffe/</link>
+					<comments>https://nguyenphuocnamanh.github.io/mywordpress/trang-web-caffe/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphuocnamanh]]></dc:creator>
+		<pubDate>Sun, 04 Sep 2022 07:13:00 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nguyenphuocnamanh.github.io/mywordpress/?p=51</guid>
+
+					<description><![CDATA[About Us About Dankuy Happiness begins with Dankuy Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur varius, arcu et dictum dapibus, augue arcu scelerisque quam, vel imperdiet tortor quam vitae nisl. Maecenas lobortis ligula non massa hendrerit vestibulum. Vestibulum sit amet rhoncus ex. Our Story Coffee is the best part of life Lorem ipsum [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="51" class="elementor elementor-51">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-e81c549 elementor-section-height-min-height elementor-section-items-bottom elementor-section-stretched elementor-section-boxed elementor-section-height-default" data-id="e81c549" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6461afc" data-id="6461afc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e1cfd0a elementor-widget elementor-widget-heading" data-id="e1cfd0a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-xxl">About Us</h1>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8977083 elementor-section-full_width elementor-section-height-full elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="8977083" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0a56e86" data-id="0a56e86" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+								<div class="elementor-element elementor-element-a240981 elementor-view-stacked animated-slow elementor-shape-circle elementor-widget elementor-widget-icon" data-id="a240981" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;none&quot;,&quot;_animation_delay&quot;:300}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<a class="elementor-icon elementor-animation-pop" href="https://www.youtube.com/watch?v=o89lL0d3UVM&#038;list=RDCqGjlBPb5JQ&#038;index=2" target="_blank">
+			<i aria-hidden="true" class="fas fa-play"></i>			</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d8b0dd2" data-id="d8b0dd2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0235b4f elementor-widget elementor-widget-heading" data-id="0235b4f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">About Dankuy</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-47905c3 elementor-absolute elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="47905c3" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-container>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow,0)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3aa53e1 elementor-widget elementor-widget-heading" data-id="3aa53e1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xxl">Happiness begins with Dankuy</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-01d4ea8 elementor-widget elementor-widget-text-editor" data-id="01d4ea8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur varius, arcu et dictum dapibus, augue arcu scelerisque quam, vel imperdiet tortor quam vitae nisl. Maecenas lobortis ligula non massa hendrerit vestibulum. Vestibulum sit amet rhoncus ex.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-9a8f9b9 elementor-widget elementor-widget-image" data-id="9a8f9b9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="970" height="272" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/signature_Asset-7-1024x287.png" class="attachment-large size-large" alt="" loading="lazy" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/signature_Asset-7-1024x287.png 1024w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/signature_Asset-7-300x84.png 300w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/signature_Asset-7-768x215.png 768w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/signature_Asset-7-1536x430.png 1536w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/signature_Asset-7-2048x573.png 2048w" sizes="(max-width: 970px) 100vw, 970px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1c7e2ae elementor-section-height-min-height elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="1c7e2ae" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-0c97401" data-id="0c97401" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-10b4bdb elementor-widget elementor-widget-heading" data-id="10b4bdb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Our Story</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a7f9cb2 elementor-absolute elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="a7f9cb2" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-30d7d4b elementor-widget elementor-widget-heading" data-id="30d7d4b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xxl">Coffee is the best part of life</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2d03448 elementor-widget elementor-widget-text-editor" data-id="2d03448" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur varius, arcu et dictum dapibus, augue arcu scelerisque quam, vel imperdiet tortor quam vitae nisl. </p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-f0fbae5 elementor-absolute elementor-widget elementor-widget-heading" data-id="f0fbae5" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">90%</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7df25f1 elementor-absolute elementor-widget elementor-widget-heading" data-id="7df25f1" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">95%</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-9702cda elementor-absolute elementor-widget elementor-widget-heading" data-id="9702cda" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">80%</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-91b2439 elementor-widget elementor-widget-progress" data-id="91b2439" data-element_type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-widget-progress{text-align:left}.elementor-progress-wrapper{position:relative;background-color:#eee;color:#fff;height:100%;border-radius:2px}.elementor-progress-bar{display:-webkit-box;display:-ms-flexbox;display:flex;background-color:#818a91;width:0;font-size:11px;height:30px;line-height:30px;border-radius:2px;-webkit-transition:width 1s ease-in-out;-o-transition:width 1s ease-in-out;transition:width 1s ease-in-out}.elementor-progress-text{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;white-space:nowrap;-o-text-overflow:ellipsis;text-overflow:ellipsis;overflow:hidden;padding-left:15px}.elementor-progress-percentage{padding-right:15px}.elementor-widget-progress .elementor-progress-wrapper.progress-info .elementor-progress-bar{background-color:#5bc0de}.elementor-widget-progress .elementor-progress-wrapper.progress-success .elementor-progress-bar{background-color:#5cb85c}.elementor-widget-progress .elementor-progress-wrapper.progress-warning .elementor-progress-bar{background-color:#f0ad4e}.elementor-widget-progress .elementor-progress-wrapper.progress-danger .elementor-progress-bar{background-color:#d9534f}.elementor-progress .elementor-title{display:block}@media (max-width:767px){.elementor-progress-text{padding-left:10px}}</style>			<span class="elementor-title">Product Quality</span>
+		
+		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="90" aria-valuetext="">
+			<div class="elementor-progress-bar" data-max="90">
+				<span class="elementor-progress-text"></span>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-25259b5 elementor-widget elementor-widget-progress" data-id="25259b5" data-element_type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+						<span class="elementor-title">Satisfied Customer</span>
+		
+		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="95" aria-valuetext="">
+			<div class="elementor-progress-bar" data-max="95">
+				<span class="elementor-progress-text"></span>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-bd92e4e elementor-widget elementor-widget-progress" data-id="bd92e4e" data-element_type="widget" data-widget_type="progress.default">
+				<div class="elementor-widget-container">
+						<span class="elementor-title">Team Work</span>
+		
+		<div class="elementor-progress-wrapper" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="80" aria-valuetext="">
+			<div class="elementor-progress-bar" data-max="80">
+				<span class="elementor-progress-text"></span>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6187024" data-id="6187024" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-353fb48 elementor-widget elementor-widget-image" data-id="353fb48" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="512" height="1024" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/volkan-vardar-xVB2G5Qas6E-unsplash-512x1024-1.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/volkan-vardar-xVB2G5Qas6E-unsplash-512x1024-1.jpeg 512w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/volkan-vardar-xVB2G5Qas6E-unsplash-512x1024-1-150x300.jpeg 150w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c5e820b elementor-absolute elementor-widget elementor-widget-image" data-id="c5e820b" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="150" height="150" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/Fingerprint-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2037e20" data-id="2037e20" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0895cd9 elementor-widget elementor-widget-spacer" data-id="0895cd9" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-container{--container-widget-width:100%}.e-container>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));-ms-flex-item-align:stretch;align-self:stretch;-ms-flex-negative:0;flex-shrink:0}.e-container>.elementor-widget-spacer>.elementor-widget-container,.e-container>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-container>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cdd0b91 elementor-widget elementor-widget-image" data-id="cdd0b91" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="512" height="1024" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/pariwat-pannium-twh7hIjuzfg-unsplash-512x1024-1.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/pariwat-pannium-twh7hIjuzfg-unsplash-512x1024-1.jpeg 512w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/pariwat-pannium-twh7hIjuzfg-unsplash-512x1024-1-150x300.jpeg 150w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ff8b7e6 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-stretched elementor-section-height-default elementor-section-items-middle" data-id="ff8b7e6" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1b15e15" data-id="1b15e15" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fa8b0b2 elementor-align-center elementor-widget elementor-widget-button" data-id="fa8b0b2" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">2002</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-e81f790 elementor-widget elementor-widget-heading" data-id="e81f790" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Where We Started</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b39478f elementor-widget elementor-widget-text-editor" data-id="b39478f" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-26026af" data-id="26026af" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1b1eaac elementor-align-center elementor-widget elementor-widget-button" data-id="1b1eaac" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">2003</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1c28e99 elementor-widget elementor-widget-heading" data-id="1c28e99" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Our First Cafe</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e528cd8 elementor-widget elementor-widget-text-editor" data-id="e528cd8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-38ad3f4" data-id="38ad3f4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c0d74be elementor-align-center elementor-widget elementor-widget-button" data-id="c0d74be" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">2008</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-45cceeb elementor-widget elementor-widget-heading" data-id="45cceeb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Best Coffe Shop</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-30d46b0 elementor-widget elementor-widget-text-editor" data-id="30d46b0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f69f93e" data-id="f69f93e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f32f873 elementor-align-center elementor-widget elementor-widget-button" data-id="f32f873" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">2019</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-712d6a2 elementor-widget elementor-widget-heading" data-id="712d6a2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">10 Branches Cafe</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-10a2e65 elementor-widget elementor-widget-text-editor" data-id="10a2e65" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1dcbcd5 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1dcbcd5" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e24ccfb" data-id="e24ccfb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e173813 elementor-widget-divider--view-line_text elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="e173813" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<span class="elementor-divider__text elementor-divider__element">
+				Working Process				</span>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-41953a9 elementor-widget elementor-widget-heading" data-id="41953a9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xxl">We Create Delicious Memories</h1>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-cdb45d6 elementor-section-height-min-height elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="cdb45d6" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-111714a" data-id="111714a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3a95a04 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="3a95a04" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="300" height="300" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/icon_4-1024x1024-1-300x300.png" class="attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Drying the beans</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-819739e" data-id="819739e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+								<div class="elementor-element elementor-element-8359c65 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="8359c65" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="300" height="300" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/icon_2-1024x1024-1-300x300.png" class="attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Roasting</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-662ea54" data-id="662ea54" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d6370ff elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="d6370ff" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="300" height="300" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/icon_5-1024x1024-1-300x300.png" class="attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Grinding</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-97b3ae8" data-id="97b3ae8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0194055 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="0194055" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="300" height="300" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/icon_3-1024x1024-1-300x300.png" class="attachment-medium size-medium" alt="" loading="lazy" /></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Perfect Coffee</h3><p class="elementor-image-box-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a49248d elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a49248d" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-52c7375" data-id="52c7375" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f4b9729 elementor-widget-divider--view-line_text elementor-widget-divider--element-align-left elementor-widget elementor-widget-divider" data-id="f4b9729" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<span class="elementor-divider__text elementor-divider__element">
+				Team				</span>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a4e6bcd elementor-widget elementor-widget-heading" data-id="a4e6bcd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-xxl">Meet Our Barista</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e14ea3c elementor-align-right elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-button" data-id="e14ea3c" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Show More</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f7c1a9b elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f7c1a9b" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-a57615f" data-id="a57615f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b15dc3c elementor-widget elementor-widget-image" data-id="b15dc3c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="819" height="1024" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/afro-american-barista-DKPCKV9-3-819x1024-1.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/afro-american-barista-DKPCKV9-3-819x1024-1.jpg 819w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/afro-american-barista-DKPCKV9-3-819x1024-1-240x300.jpg 240w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/afro-american-barista-DKPCKV9-3-819x1024-1-768x960.jpg 768w" sizes="(max-width: 819px) 100vw, 819px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-79d5b81" data-id="79d5b81" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-960072a elementor-widget elementor-widget-image" data-id="960072a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="819" height="1024" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/happy-young-barista-at-work-PA8WYNX-819x1024-1.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/happy-young-barista-at-work-PA8WYNX-819x1024-1.jpeg 819w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/happy-young-barista-at-work-PA8WYNX-819x1024-1-240x300.jpeg 240w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/happy-young-barista-at-work-PA8WYNX-819x1024-1-768x960.jpeg 768w" sizes="(max-width: 819px) 100vw, 819px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-bce005a" data-id="bce005a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-68a471d elementor-widget elementor-widget-image" data-id="68a471d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="819" height="1024" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/barista-prepare-coffee-working-order-concept-PZ6VVZA-819x1024-1.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/barista-prepare-coffee-working-order-concept-PZ6VVZA-819x1024-1.jpeg 819w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/barista-prepare-coffee-working-order-concept-PZ6VVZA-819x1024-1-240x300.jpeg 240w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/barista-prepare-coffee-working-order-concept-PZ6VVZA-819x1024-1-768x960.jpeg 768w" sizes="(max-width: 819px) 100vw, 819px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4b9ee4a elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="4b9ee4a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-1c5d8be" data-id="1c5d8be" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a265f15 elementor-absolute elementor-view-default elementor-widget elementor-widget-icon" data-id="a265f15" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-star-of-life"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8ff46f2 elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="8ff46f2" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						50					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Coffe Varieties					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ad6e4c2" data-id="ad6e4c2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e8ce125 elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="e8ce125" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						70					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Coffee Brand					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-9ebd8cd elementor-absolute elementor-view-default elementor-widget elementor-widget-icon" data-id="9ebd8cd" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-star-of-life"></i>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f5f3ab8" data-id="f5f3ab8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-139b968 elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="139b968" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						85					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Side Dish					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-845e0ea elementor-absolute elementor-view-default elementor-widget elementor-widget-icon" data-id="845e0ea" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-star-of-life"></i>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-41ef921" data-id="41ef921" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7b28f05 elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="7b28f05" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						2,000					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Happy Customers					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-fb301b7 elementor-absolute elementor-view-default elementor-widget elementor-widget-icon" data-id="fb301b7" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-star-of-life"></i>			</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-65d3e7e elementor-section-height-min-height elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="65d3e7e" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-c94b96f" data-id="c94b96f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b5afaf9 elementor-widget elementor-widget-image" data-id="b5afaf9" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="300" height="112" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/logo_Asset-3-300x112.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/logo_Asset-3-300x112.png 300w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/logo_Asset-3-1024x383.png 1024w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/logo_Asset-3-768x288.png 768w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/logo_Asset-3-1536x575.png 1536w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/logo_Asset-3-2048x767.png 2048w" sizes="(max-width: 300px) 100vw, 300px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-72f329c elementor-widget elementor-widget-text-editor" data-id="72f329c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in nibh vehicula.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-82cfed6" data-id="82cfed6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f701bc0 elementor-widget elementor-widget-heading" data-id="f701bc0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-large">Get In Touch</h1>		</div>
+				</div>
+				<div class="elementor-element elementor-element-06a2dff elementor-view-default elementor-widget elementor-widget-icon" data-id="06a2dff" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="far fa-map"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c00dd82 elementor-view-default elementor-widget elementor-widget-icon" data-id="c00dd82" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-envelope-open-text"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2773630 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="2773630" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>anymail@gmail.com</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-00b9dca elementor-view-default elementor-widget elementor-widget-icon" data-id="00b9dca" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="fas fa-phone-alt"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4558d15 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="4558d15" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>+1 234 567 890</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-0f0ba1b elementor-view-default elementor-widget elementor-widget-icon" data-id="0f0ba1b" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<i aria-hidden="true" class="far fa-clock"></i>			</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8349528 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="8349528" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>09.00 AM &#8211; 17.00PM</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-a70f74a elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-text-editor" data-id="a70f74a" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>140 Hope Street, Piano</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5b4f4a3" data-id="5b4f4a3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-056683a elementor-widget elementor-widget-heading" data-id="056683a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">Quicklinks</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0111205 elementor-widget elementor-widget-text-editor" data-id="0111205" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="#">Menu</a></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c72c5e7 elementor-widget elementor-widget-text-editor" data-id="c72c5e7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="#">Services</a></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-461d577 elementor-widget elementor-widget-text-editor" data-id="461d577" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="#">FAQs</a></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-09253b0 elementor-widget elementor-widget-text-editor" data-id="09253b0" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="#">Blog</a></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6bf1f9a elementor-widget elementor-widget-text-editor" data-id="6bf1f9a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><a href="#">Contact</a></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-ad00d6a" data-id="ad00d6a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-67cb5e9 elementor-widget elementor-widget-heading" data-id="67cb5e9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-large">Location</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-16d9624 elementor-widget elementor-widget-google_maps" data-id="16d9624" data-element_type="widget" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.3 - 29-08-2022 */
+.elementor-widget-google_maps .elementor-widget-container{overflow:hidden}.elementor-widget-google_maps iframe{height:300px}</style>		<div class="elementor-custom-embed">
+			<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+					src="https://maps.google.com/maps?q=Tr%C6%B0%E1%BB%9Dng%20Cao%20%C4%90%E1%BA%B3ng%20C%C3%B4ng%20Ngh%E1%BB%87%20Th%C3%B4ng%20Tin%20Tp.H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Tr%E1%BB%8Bnh%20%C4%90%C3%ACnh%20Th%E1%BA%A3o%2C%20Ho%C3%A0%20Th%E1%BA%A1nh%2C%20T%C3%A2n%20Ph%C3%BA%2C%20Th%C3%A0nh%20ph%E1%BB%91%20H%E1%BB%93%20Ch%C3%AD%20Minh%2C%20Vi%E1%BB%87t%20Nam&#038;t=m&#038;z=14&#038;output=embed&#038;iwloc=near"
+					title="Trường Cao Đẳng Công Nghệ Thông Tin Tp.Hồ Chí Minh, Trịnh Đình Thảo, Hoà Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam"
+					aria-label="Trường Cao Đẳng Công Nghệ Thông Tin Tp.Hồ Chí Minh, Trịnh Đình Thảo, Hoà Thạnh, Tân Phú, Thành phố Hồ Chí Minh, Việt Nam"
+			></iframe>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fd1bc8e elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fd1bc8e" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-105c7f9" data-id="105c7f9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-44a58d5 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="44a58d5" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8c4e67d elementor-absolute elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="8c4e67d" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a979349 elementor-widget elementor-widget-text-editor" data-id="a979349" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Copyright © 2021 ASK Project</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenphuocnamanh.github.io/mywordpress/trang-web-caffe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Quá trình hình thành và phát triển của cafe Trung Nguyên.</title>
+		<link>https://nguyenphuocnamanh.github.io/mywordpress/pioneer-thuong-hieu-top-hang-dau-ve-cac-san-pham-giai-tri-va-da-phuong-tien/</link>
+					<comments>https://nguyenphuocnamanh.github.io/mywordpress/pioneer-thuong-hieu-top-hang-dau-ve-cac-san-pham-giai-tri-va-da-phuong-tien/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphuocnamanh]]></dc:creator>
+		<pubDate>Tue, 23 Aug 2022 08:26:38 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nguyenphuocnamanh.github.io/mywordpress/?p=8</guid>
+
+					<description><![CDATA[1) Giới thiệu về cafe Trung Nguyên. Cà phê Trung Nguyên: 21 năm hình thành và phát triển , đã xuất hiện tại hơn 60 quốc gia trên thế giới và hơn 20.000 quán cà phê trên khắp Việt Nam và Quốc tê. Đặc sắc với Làng cà phê Trung Nguyên quán cà phê lớn [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/coffe-trung-nguyen-1.jpg" alt="" class="wp-image-117" width="841" height="631" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/coffe-trung-nguyen-1.jpg 624w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/coffe-trung-nguyen-1-300x225.jpg 300w" sizes="(max-width: 841px) 100vw, 841px" /></figure>
+
+
+<h4><em><strong>1) Giới thiệu về cafe Trung Nguyên.</strong></em></h4>
+<p>Cà phê Trung Nguyên: 21 năm hình thành và phát triển , đã xuất hiện tại hơn 60 quốc gia trên thế giới và hơn 20.000 quán cà phê trên khắp Việt Nam và Quốc tê. Đặc sắc với Làng cà phê Trung Nguyên quán cà phê lớn nhất thế giới. Được khởi xướng bởi ông Đặng Lê Nguyên Vũ sinh ngày 10 tháng 2 năm 1971 tại Nha Trang, Khánh Hòa trong một gia đình nông dân nghèo. Năm 1979, gia đình ông chuyển đến sinh sống ở huyện miền núi M’drak, tỉnh Đắk Lắk , Việt Nam.</p>
+<h4><em><strong>2) Quá trình hình thành và phát triển.</strong></em></h4>
+<h4><strong>a) Giai đoạn 1996.</strong></h4>
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="550" height="300" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/1996-2.png" alt="" class="wp-image-120 size-full" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/1996-2.png 550w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/1996-2-300x164.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></figure><div class="wp-block-media-text__content">
+<p>Ngày 16/06/1996 ông Đặng Lê Nguyên Vũ và 3 người bạn cùng phòng trọ thành lập Trung Nguyên tại Buôn Ma Thuột – thủ phủ cà phê Việt Nam, với số vốn đầu tiên là chiếc xe đạp cọc cạch với niềm tin và ý chí mãnh liệt của tuổi trẻ cùng với khát vọng xây dựng một Thương hiệu cà phê nổi tiếng, đưa hương vị cà phê Việt Nam lan tỏa khắp thế giới.</p>
+</div></div>
+
+
+<h4><em><strong>b) Giai đoạn 1998.</strong></em></h4>
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><img loading="lazy" width="550" height="300" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/1998-new.png" alt="" class="wp-image-121 size-full" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/1998-new.png 550w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/1998-new-300x164.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></figure><div class="wp-block-media-text__content">
+<p>Ngày 20/8/1998, ông Vũ lần đầu tiên mở quán cà phê Trung Nguyên ở 587 Nguyễn Kiệm, Phú Nhuận, Thành phố Hồ Chí Minh. Ngay thời điểm này, ông Vũ đã tỏ ra là người biết cách làm quảng cáo khi quán cà phê phục vụ cà phê miễn phí trong 10 ngày. Quán cà phê nhanh chóng thu hút mọi người kéo đến thưởng thức đồ uống miễn phí. Đến nay, quán cà phê này vẫn còn hoạt động.</p>
+</div></div>
+
+
+<h4><em><strong>c) Giai đoạn 2001.</strong></em></h4>
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="550" height="300" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2001-new.png" alt="" class="wp-image-122 size-full" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2001-new.png 550w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2001-new-300x164.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></figure><div class="wp-block-media-text__content">
+<p>Công bố khẩu hiệu “khơi nguồn sáng tạo” và nhượng quyền thành công tại Nhật Bản, Singapore được chắt lọc từ những hạt cà phê ngon nhất, công nghệ hiện đại, bí quyết phương Đông độc đáo không thể sao chép hòa cùng những đam mê tột bậc đã đưa cà phê Trung Nguyên chinh phục người tiêu dung trên khắp cả nước.</p>
+
+
+
+<p></p>
+</div></div>
+
+
+<h4><strong><em>d) Giai đoạn 2003.</em></strong></h4>
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="550" height="300" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2003-new.png" alt="" class="wp-image-123 size-full" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2003-new.png 550w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2003-new-300x164.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></figure><div class="wp-block-media-text__content">
+<p>Một trong những yếu tố giúp Trung Nguyên khẳng định tên tuổi của mình đó là khi tham gia vào thị trường cà phê hòa tan. Ra đời ngày 23/11/2003, G7 để lại dấu ấn mạnh mẽ với cuộc thử mù thách thức các thương hiệu thống trị lúc bấy giờ là Nescafe của tập đoàn nước ngoài Nestle.</p>
+
+
+
+<p>G7 sau đó được người tiêu dùng Việt Nam đón nhận và nhanh chóng trở thành một trong 3 thương hiệu dẫn đầu thị trường cà phê hòa tan Việt: Nestle – Vinacafe – Trung Nguyên</p>
+</div></div>
+
+
+<h4><strong><em>e) Giai đoạn 2010.</em></strong></h4>
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="550" height="300" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2010-new.png" alt="" class="wp-image-124 size-full" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2010-new.png 550w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2010-new-300x164.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></figure><div class="wp-block-media-text__content">
+<p>Năm 2008 công ty thành lập văn phòng tại Singapore là bước đệm chinh phục thị trường cà phê thế giới.</p>
+
+
+
+<p>Sản phẩm cà phê Trung Nguyên được xuất khẩu đến hơn 60 quốc gia trên toàn cầu, tiêu biểu như tại Mỹ, Canada, Nga, Anh, Đức, Nhật Bản, Trung Quốc, ASEAN…</p>
+</div></div>
+
+
+<h4><strong><em>f) Giai đoạn 2012.</em></strong></h4>
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="550" height="300" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2012-new.png" alt="" class="wp-image-125 size-full" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2012-new.png 550w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2012-new-300x164.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></figure><div class="wp-block-media-text__content">
+<p>Thương hiệu cà phê được người tiêu dùng Việt Nam yêu thích nhất. Cà phê Trung Nguyên là Thương hiệu số 1 tại Việt Nam với số lượng người tiêu dùng cà phê lớn nhất. Phát động Hành trình Lập Chí Vĩ Đại – Khởi Nghiệp Kiến Quốc với Ngày hội Sáng tạo Vì khát vọng Việt thu hút hơn 50.000 người tham gia.</p>
+</div></div>
+
+
+<h4><strong><em>g) Giai đoạn 2013.</em></strong></h4>
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="550" height="300" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2013-nue.png" alt="" class="wp-image-126 size-full" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2013-nue.png 550w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2013-nue-300x164.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></figure><div class="wp-block-media-text__content">
+<p>Cà phê hòa tan G7 Trung Nguyên kỷ niệm 10 năm ra đời, 3 năm dẫn đầu thị phần và được yêu thích nhất. Hành trình lập chí vĩ đại lan tỏa rộng khắp với cuộc thi Sáng tạo tương lai và ngày hội sáng tạo vì khát vọng Việt lần 2 thu hút 100.000 người tham gia.</p>
+</div></div>
+
+
+<h4><strong><em>g) Giai đoạn 2016.</em></strong></h4>
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="550" height="300" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2016-new.png" alt="" class="wp-image-127 size-full" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2016-new.png 550w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2016-new-300x164.png 300w" sizes="(max-width: 550px) 100vw, 550px" /></figure><div class="wp-block-media-text__content">
+<p>Kỷ niệm 20 năm Hành trình Phụng sự, công bố Danh xưng, Tầm nhìn, Sứ mạng mới. Ra mắt mô hình Trung Nguyên Family – Café năng lượng – Café đổi đời.</p>
+</div></div>
+
+
+<h4><strong><em>k) Giai đoạn 2017.</em></strong></h4>
+
+
+<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="600" height="286" src="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2017-1.png" alt="" class="wp-image-128 size-full" srcset="https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2017-1.png 600w, https://nguyenphuocnamanh.github.io/mywordpress/wp-content/uploads/2022/09/2017-1-300x143.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure><div class="wp-block-media-text__content">
+<p>Tiếp tục khẳng định và nâng tầm vị thế Thương Hiệu Việt ra quốc tế. Trung Nguyên Legend chính thức khai trương văn phòng đại diện tại Thượng Hải (Trung Quốc), một trong những trung tâm thương mại, tài chính bậc nhất thế giới. Ra mắt Mô hình E-Coffee: Hệ thống cà phê Chuyên biệt – Đặc biệt, Cà phê Năng lượng – Cà phê Đổi đời.</p>
+</div></div>
+
+
+<p><iframe loading="lazy" class="giphy-embed" src="https://giphy.com/embed/q5IRWEnAHl9AtLPncN" width="480" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+
+<p class="has-text-align-right">Tác giả: Nam Anh</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenphuocnamanh.github.io/mywordpress/pioneer-thuong-hieu-top-hang-dau-ve-cac-san-pham-giai-tri-va-da-phuong-tien/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://nguyenphuocnamanh.github.io/mywordpress/chao-moi-nguoi/</link>
+					<comments>https://nguyenphuocnamanh.github.io/mywordpress/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[nguyenphuocnamanh]]></dc:creator>
+		<pubDate>Tue, 16 Aug 2022 07:34:32 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nguyenphuocnamanh.github.io/mywordpress/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenphuocnamanh.github.io/mywordpress/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
